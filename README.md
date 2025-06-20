@@ -1,9 +1,19 @@
 # theft
 
-Prior to, during and after the departure of nearly all of the engineering staff at Notional, there were thefts from our company.
+Prior to, during, and following the departure of nearly all engineering staff at Notional, multiple thefts occurred within the company.
 
-This is the last release of software from Notional PTE, LTD.
+This statement marks the final software release from Notional PTE, LTD.
 
-When he's ready to, Jacob will release a retrospective on Notional, Cosmos, and how to validate more securely.  The critical fault was the use of a shared seed phrase for root validation, which stemmed from Jacob's days at AiB, where Ricardo billed AiB for Jacob.  This was the only account that Jacob / Ricardo had at Osmosis genesis that qualified for the airdrop on atom stakers.  this was solved by streamswap, which enables equitable distribution at scale.  
+In due time, Jacob will publish a retrospective on Notional, the Cosmos ecosystem, and best practices for validator security. The critical vulnerability involved the use of a shared seed phrase for root validation—an insecure practice carried over from Jacob’s time at AiB, where Ricardo billed AiB for Jacob’s work. This seed phrase was the only one held by Jacob/Ricardo at Osmosis genesis that qualified for the airdrop based on Atom staking. This flaw has since been addressed through the implementation of Streamswap, which enables equitable and scalable distribution.
 
-Additional information has been added on 6/20/2024, specifically information on an individual linked to adam christopher chaplin, and another individual linked to minh vu le nhat.  these documents were obtained at the cost of ~$750,000 by ontaining an injunction from the singapore high court   
+As of June 20, 2024, additional information has been appended. This includes intelligence on an individual associated with Adam Christopher Chaplin, and another linked to Minh Vu Le Nhat. These documents were secured at an estimated cost of ~$750,000, through an injunction issued by the Singapore High Court.
+
+⸻
+
+Physical Assault Incident — June 5, 2025, approx. 9:30 PM
+
+Jacob came by Adam’s room to deliver some money (I was already present). Adam told Jacob to leave. He then suddenly grabbed Jacob by the throat. I intervened, grabbing Adam’s hands and telling him to stop. Adam broke free from my grip and slapped Jacob.
+
+As Jacob turned away to disengage from the situation, Adam grabbed his face from behind, pressed his right index and middle fingers into Jacob’s right eye, and yelled, “I could gouge your eye out.” I managed to remove Adam’s hands from Jacob’s face. Adam then proceeded to push Jacob into the pool.
+
+Throughout the entire incident, Adam was accusing Jacob of being responsible for the Notional theft.
