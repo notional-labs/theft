@@ -5,4 +5,4 @@ Prior to, during and after the departure of nearly all of the engineering staff 
 This is the last release of software from Notional PTE, LTD.
 
 
-tldr: everyone should remove thier name from everything.  do not be like me.  
+tldr: everyone should remove their name from everything.  do not be like me.  
