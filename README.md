@@ -10,10 +10,12 @@ As of June 20, 2024, additional information has been appended. This includes int
 
 ⸻
 
+Witness account from @mancoon
+
 Physical Assault Incident — June 5, 2025, approx. 9:30 PM
 
 Jacob came by Adam’s room to deliver some money (I was already present). Adam told Jacob to leave. He then suddenly grabbed Jacob by the throat. I intervened, grabbing Adam’s hands and telling him to stop. Adam broke free from my grip and slapped Jacob.
 
 As Jacob turned away to disengage from the situation, Adam grabbed his face from behind, pressed his right index and middle fingers into Jacob’s right eye, and yelled, “I could gouge your eye out.” I managed to remove Adam’s hands from Jacob’s face. Adam then proceeded to push Jacob into the pool.
 
-Throughout the entire incident, Adam was accusing Jacob of being responsible for the Notional theft.
+Throughout the entire incident, Adam was accusing Jacob of being responsible for the Notional theft and attempting to extract information from him concerning it. 
